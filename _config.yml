@@ -116,6 +116,22 @@ content:
       - Assisted Detection Model of Breast Tumor, and Assisted Detection System of Breast Tumor; Invention Patent No. TW201940124A; 2019/10/16.
       - Prediction Model for Grouping Hepatocellular Carcinoma, Prediction System Thereof, and Method for Determining Hepatocellular Carcinoma Group; Invention Patent No. TW201935403A; 2019/09/01.
 
+  - title: Publications
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+    1. Yang-Hsien Lin, Ken Ying-Kai Liao, Kung-Bin Sung*, "Automatic Detection and Characterization of Quantitative Phase Images of Thalassemic Red Blood Cells using Mask Region-based Convolutional Neural Network," Journal of Biomedical Optics. 2020; 25(11):116502.
+    2. Yang-Hsien Lin, Shin-Shyang Huang, Shang-Ju Wu, Kung-Bin Sung*, "Morphometric Analysis of Erythrocytes from Patients with Thalassemia using Tomographic Diffractive Microscopy," Journal of Biomedical Optics. 2017; 22(11):116009.
+    3. Jing-Wei Su, Yang-Hsien Lin, Chun-Ping Chiang, Jang-Ming Lee, Chao-Mao Hsieh, Min-Shu Hsieh, Pei-Wen Yang, Chen-Ping Wang, Ping-Huei Tseng, Yi-Chia Lee, and Kung-Bin Sung*, "Precancerous esophageal epithelia are associated with significantly increased scattering coefficients," Biomedical Optics Express. 2015; 6(10):3795-3805. 
+    4. Yang-Hsien Lin, Kang-Ping Lin, Shih-Min Huang, Hui-Ting Lu, Tien-Hsiang Lin, Tzung-Chi Huang*, "Left ventricle segmentation in dynamic cardiac CT using random walks method," Journal of X-ray science and technology. 2015; 23(1):25-31. 
+    5. Yang-Hsien Lin, Shih-Min Huang, Chin-Yi Huang, Yun-Niang Tu, Tzung-Chi Huang*, "Quantitative Analysis of Respiration-Related Movement for Abdominal Artery in Multiphase Hepatic CT," PloS one. 2014; 9(12):e114222. 
+    6. Yang-Hsien Lin, Kang-Ping Lin, Juhn-Cherng Liu, Tzung-Chi Huang*, "Ventricular hemodynamics using Cardiac Computed Tomography and Optical Flow Method," Journal of X-Ray Science and Technology. 2014;22(1):129-136. 
+    7. Tung-Hsin Wu, Chung-Jung Lin, Yang-Hsien Lin, Wan-Yuo Guo, Tzung-Chi Huang*, "Quantitative analysis of digital subtraction angiography using optical flow method on occlusive cerebrovascular disease," Computer Methods and Programs in Biomedicine. 2013;111(3):693-700. 
+    8. Tzung-Chi Huang, Tung-Hsin Wu, Yang-Hsien Lin, Wan-Yuo Guo, Wei-Chien Huang, Chung-Jung Lin*, "Quantitative Flow Measurement by Digital Subtraction Angiography in Cerebral Carotid Stenosis Using Optical Flow Method," Journal of X-Ray Science and Technology. 2013;21(2):227-235. 
+    9. Yao-Ching Wang, Hsun-Lin Tseng, Yang-Hsien Lin, Chia-Hung Kao, Wei-Chien Huang, Tzung-Chi Huang*, "Improvement of internal tumor volumes of non-small cell lung cancer patients for radiation treatment planning using interpolated average CT in PET/CT," PLoS One. 2013. 
+    10. Tzu-Ching Shih, Yang-Hsien Lin, Yung-Jen Ho, Hung-Da Hsiao, Yung-Hui Huang, Tzung-Chi Huang*, "Hemodynamic analysis of vascular stenting treatment outcome: Computational fluid dynamics method v.s. Optical flow method," Journal of X-Ray Science and Technology. 2012;20:469-481.  
+    11. Yung-Jen Ho, Mu-Bai Chang, Yang-Hsien Lin, Chun-Hsu Yao, Tzung-Chi Huang*, "Quantitative portal vein velocity of liver cancer patients with transcatheter arterial chemoembolization on angiography," The Scientific World Journal, 2012. 
+    12. Wen-Chen Lin, Chih-Chieh Wu, Geoffrey Zhang, Tung-Hsin Wu, Yang-Hsien Lin, Tzung-Chi Huang*, Ren-Shyan Liu, Kang-Ping Lin, "An Approach to Automatic Blood Vessel Image Registration of Microcirculation for Blood Flow Analysis on Nude Mice," Computer Methods in Biomechanics and Biomedical Engineering. 2011;14(4):319-330. 
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
