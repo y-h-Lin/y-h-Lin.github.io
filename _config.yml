@@ -118,6 +118,7 @@ content:
     2. Prediction Model for Grouping Hepatocellular Carcinoma, Prediction System Thereof, and Method for Determining Hepatocellular Carcinoma Group; Invention Patent No. : TW201935403A; 2019/09/01.
 
   - title: Publications
+    layout: list # Type of content section (list/text)
 
   - title: A Little More About Me
     layout: text
