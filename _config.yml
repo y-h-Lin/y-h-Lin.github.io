@@ -111,14 +111,7 @@ content:
     • Research Excellence Award, National Yang Ming University, 2013. 
 
 
-  - title: Patents
-    layout: list # Type of content section (list/text)
-    description:
-    1. Assisted Detection Model of Breast Tumor, and Assisted Detection System of Breast Tumor; Invention Patent No. : TW201940124A; 2019/10/16.
-    2. Prediction Model for Grouping Hepatocellular Carcinoma, Prediction System Thereof, and Method for Determining Hepatocellular Carcinoma Group; Invention Patent No. : TW201935403A; 2019/09/01.
 
-  - title: Publications
-    layout: list # Type of content section (list/text)
 
   - title: A Little More About Me
     layout: text
