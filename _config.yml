@@ -113,8 +113,8 @@ content:
   - title: Patents
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Assisted Detection Model of Breast Tumor, and Assisted Detection System of Breast Tumor; Invention Patent No. : TW201940124A; 2019/10/16.
-      - Prediction Model for Grouping Hepatocellular Carcinoma, Prediction System Thereof, and Method for Determining Hepatocellular Carcinoma Group; Invention Patent No. : TW201935403A; 2019/09/01.
+      - Assisted Detection Model of Breast Tumor, and Assisted Detection System of Breast Tumor; Invention Patent No. TW201940124A; 2019/10/16.
+      - Prediction Model for Grouping Hepatocellular Carcinoma, Prediction System Thereof, and Method for Determining Hepatocellular Carcinoma Group; Invention Patent No. TW201935403A; 2019/09/01.
 
   - title: A Little More About Me
     layout: text
