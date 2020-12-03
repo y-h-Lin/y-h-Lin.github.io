@@ -58,12 +58,8 @@ content:
     content:
       - layout: left
         title: China Medical University Hospital
-        link: boringcompany.com
-        # link_text: boringcompany.com
         sub_title: Big Data Engineer
         caption: Aug. 2017 - Aug. 2018
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
             Accerating the Radiomics to extract known features for machine learning. The deep learning techniques were also applied to delineate and detect lesions from medical images such as CT images and sonograms.
 
